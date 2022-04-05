@@ -1,4 +1,5 @@
 site_name: SHAARP
+docs_dir: '.'
 
 nav:
     - Home: index.md
