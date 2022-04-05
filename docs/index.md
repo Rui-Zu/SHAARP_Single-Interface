@@ -9,7 +9,6 @@ This project is under active development.
 
 ## Project outline
 
-### [Homepage](index)
 ### [Installation and setup](1_install.md)
 ### [Simulation and Analytical Methods](2_methods.md)
 ### [Input Parameters](3_input.md)
