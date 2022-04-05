@@ -1,4 +1,4 @@
-site_name: SHAARP
+site_name: SHAARP_Single-Interface
 site_url: https://github.com/Rui-Zu/SHAARP_Single-Interface/
 nav:
     - Home: index.md
