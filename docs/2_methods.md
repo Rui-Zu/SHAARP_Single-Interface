@@ -1,0 +1,8 @@
+# Simulation and Analytical Methods
+## Optical Geometry
+           
+Fig. 1(a-c) and (d-f) are the two common schematics of experimental geometries where the red and blue rays are the fundamental and second harmonic light, respectively. The plane of incidence is defined as the $L_1 - L_3$ plane, where $(L_1,L_2,L_3)$ are the lab coordinates as displayed in Fig. 1a and d. While rotating the incident polarization ( ), polarized SH intensities are collected as a function of the azimuthal angle . Fig. 1b depicts the collection of _p_ and _s_ polarized SH intensities ( and ) and Fig. 1e illustrate the SH intensities polarized both parallel and perpendicular to the incident fundamental polarization ( and ) if projected in  plane. Here,  and  describes the electrical fields of electromagnetic waves within and perpendicular to the plane of incidence ( plane), respectively. The former geometry is commonly achieved with a rotating halfwave plate and fixed analyzer while the latter geometry can be achieved by simply rotating the crystal or rotating the halfwave plate and analyzer simultaneously. **Fig. 1c** and **f** demonstrate the SHG polar plots of GaAs (111) obtained at normal incident geometry which contain information of crystal symmetry, refractive indices at both  and  frequencies, and second-order nonlinear susceptibility.         
+![[V6_Figure1.png]]
+## Coordinate System
+## Calculation at $\omega$ Frequency
+## Calculation at $2\omega$ Frequency
