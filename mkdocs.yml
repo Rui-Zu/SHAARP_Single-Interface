@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: #SHAARP
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - Installation and Setup: 1_install.md
+    - Simulation and Analytical Methods: 2_methods.md
+    - Input Parameters: 3_install.md
+    - Output Results: 4_install.md
+    - Examples: 5_examples.md
+
+theme: readthedocs
