@@ -1,41 +1,11 @@
-site_name: MkDocs
-site_url: https://www.mkdocs.org/
-site_description: Project documentation with Markdown.
-site_author: MkDocs Team
-
-repo_url: https://github.com/mkdocs/mkdocs/
-edit_uri: ""
-
-theme:
-    name: mkdocs
-    locale: en
-    analytics: {gtag: 'G-274394082'}
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - django
-
+site_name: #SHAARP
+site_url: https://github.com/Rui-Zu/SHAARP_Single-Interface/
 nav:
     - Home: index.md
-    - Getting Started: getting-started.md
-    - User Guide:
-        - Overview: user-guide/index.md
-        - Installation: user-guide/installation.md
-        - Writing Your Docs: user-guide/writing-your-docs.md
-        - Choosing Your Theme: user-guide/choosing-your-theme.md
-        - Customizing Your Theme: user-guide/customizing-your-theme.md
-        - Localizing Your Theme: user-guide/localizing-your-theme.md
-        - Configuration: user-guide/configuration.md
-        - Deploying Your Docs: user-guide/deploying-your-docs.md
-    - Developer Guide:
-        - Overview: dev-guide/index.md
-        - Themes: dev-guide/themes.md
-        - Translations: dev-guide/translations.md
-        - Plugins: dev-guide/plugins.md
-    - About:
-        - Release Notes: about/release-notes.md
-        - Contributing: about/contributing.md
-        - License: about/license.md
+    - Installation and Setup: 1_install.md
+    - Simulation and Analytical Methods: 2_methods.md
+    - Input Parameters: 3_install.md
+    - Output Results: 4_install.md
+    - Examples: 5_examples.md
 
-extra_css:
-    - css/extra.css
+theme: readthedocs
